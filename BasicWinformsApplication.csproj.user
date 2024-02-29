@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="UserControls\NumberCounterControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\SumCalculatorControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\Login\LoginView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Main\MainView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
